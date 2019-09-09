@@ -372,7 +372,7 @@ a:hover, a:focus, a:active {
 
 .my-autoa{
 border 2px solid white;
-background-image: url("../img/austin.jpg");
+background-image: url();
 background-size: contain;
 border-radius: 50%;
 width: 260px;
