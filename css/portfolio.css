@@ -88,10 +88,11 @@ h6 {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("https://wallpaperaccess.com/full/704156.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("https://images.pexels.com/photos/281184/pexels-photo-281184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
+  
 
 }
 
@@ -372,7 +373,7 @@ a:hover, a:focus, a:active {
 
 .my-autoa{
 border 2px solid white;
-background-image: url("../img/austin.jpg");
+background-image: url("../img/mubeu.jpg");
 background-size: contain;
 border-radius: 50%;
 width: 260px;
